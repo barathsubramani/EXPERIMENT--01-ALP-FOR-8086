@@ -89,7 +89,7 @@ ret
 
 
 ## Output  
-![image](add.png)
+![image](add1.png)
  
 ## Subtraction   of 8 bit numbers  ALP 
  ```
@@ -101,7 +101,7 @@ MOV [8798h],bl;
 ret
 ```
 ## Output  
-![image](sub.png)
+![image](sub1.png)
 
 ## Multiplication alp 
 ```
@@ -113,7 +113,7 @@ MOV [6063h],bl;
 ret
 ```
  ## Output  
-![image](mul.png)
+![image](mul1.png)
 
 ## Division alp 
 ```
@@ -126,7 +126,7 @@ ret
 ```
 
 ## Output  
-![image](div.png)
+![image](div1.png)
 
 ## OR Operation
 ```
@@ -139,7 +139,7 @@ ret
 ```
 
 ## Output
-![image](OR.png)
+![image](OR1.png)
 
 ## AND Operation
 ```
@@ -152,7 +152,7 @@ ret
 ```
 
 ## Output
-![image](and.png)
+![image](and1.png)
 
 ## XOR Operation
 ```
@@ -165,7 +165,7 @@ ret
 ```
 
 ## Output
-![image](xor.png)
+![image](xor1.png)
 
 ## NOT Operation
 ```
@@ -179,7 +179,7 @@ ret
 
 
 ## Output
-![image](not.png)
+![image](not1.png)
 
 ## Result :
  Thus, ALP for fundamental arithmetic and logical operations are executed successfully.
