@@ -140,7 +140,7 @@ ret
 ```
 
 ## Output
-![image](OR1.png)
+![image](or1.png)
 
 ## AND Operation
 ```
