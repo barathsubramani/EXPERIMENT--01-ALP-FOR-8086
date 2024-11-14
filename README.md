@@ -2,7 +2,7 @@
 ```
 Name : Barath S
 Roll no : 212222230018
-Date of experiment : 
+Date of experiment : 23/08/2024
 ```
 
 
@@ -29,8 +29,6 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 7.	After running the program, another menu screen will be displayed, where you have the option to “View” symbol table,
 8.	 
-
-
 ![image](https://user-images.githubusercontent.com/36288975/189273263-d65baae9-4b8f-4723-afb3-c0ffa4052b04.png)
 
 
@@ -52,11 +50,6 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 
-![image](https://user-images.githubusercontent.com/36288975/189273273-9bb36ec1-e2e8-4892-8d35-37707332bfdc.png)
-
-
-
-
 
 
 
@@ -65,10 +58,6 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 
 
-
-
-
-![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
 
 
 
